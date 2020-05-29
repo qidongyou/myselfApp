@@ -3,21 +3,18 @@
 
 
 ## 自我介绍
- 
 
-|      key  		| value            |
-| ------------- 	|:-------------:   |
-| 姓名      		| 齐冬有 		       |
-| 简称      		| Dongyou         |
-| 学校 				| 安徽新华学院   |
-| 专业 				| 软件技术      |
-| 技术 				| php mysql nginx ci laravel thinkphp 其他相关技术      |
-| 前端 				| html、js、angularjs、jquery、bootstrap       |
-
-
-## 工作介绍
-
-xxxx
+* 姓名: 齐冬有
+* 昵称: Tom
+* 学校: 安徽新华学院
+* 专业: 软件技术
+* 学历: 大专
+* 工作经验: 6年
+* 技术: LNMP开发 CI,Laravel,Thinkphp 等相关框架
+* 前端: html,css,js,jQuery,Angularjs,vue,微信小程序
+* 其他：Git,GitLab,Redis,Docker,Jenkins,Elasticsearch
+* 工具: Vscode,phpStorm,sublime，印象笔记，有道笔记，语雀, Postman
+* 项目经验: 旅游行业B2B,B2C，医药行业B2B
 
 
 	
