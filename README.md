@@ -7,10 +7,14 @@
 * 学历: 大专
 * 工作经验: 6年
 * 技术: LNMP开发 CI,Laravel,Thinkphp 等相关框架
+* 数据库: MongoDB,MySQL,SQL Server,小程序数据储存
 * 前端: html,css,js,jQuery,Angularjs,vue,微信小程序
 * 其他：Git,GitLab,Redis,Docker,Jenkins,Elasticsearch
 * 工具: Vscode,phpStorm,sublime，印象笔记，有道笔记，语雀, Postman
 * 项目经验: 旅游行业B2B,B2C，医药行业B2B
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gf9nbm7wnjj30870bhwfr.jpg)
+
 
 
 	
